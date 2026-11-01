@@ -1,0 +1,12 @@
+build/
+artifacts/
+**/bin/
+**/obj/
+**/__pycache__/
+*.user
+.vs/
+*.cf32
+*.cu8
+*.burst
+*.llr
+*.wav
